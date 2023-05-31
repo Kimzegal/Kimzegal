@@ -24,6 +24,12 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### status ... 🏆
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+-->
+![Kimzegal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimzegal&show_icons=true&theme=graywhite)
+
 <!--
 **Kimzegal/Kimzegal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

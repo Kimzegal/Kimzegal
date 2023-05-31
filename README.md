@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi Everyone 👋
+I'm studying about Web-fullstack stacks for being Fullstack programmer.
 <!-- 뱃지
 ![텍스트](https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상)
 -->

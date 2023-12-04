@@ -1,4 +1,4 @@
-### (https://www.notion.so/mogakko/Sehun-Lee-c3b00c3bbdfb47878f0199324d6e33fa) 포트폴리오
+### [포트폴리오](https://www.notion.so/mogakko/Sehun-Lee-c3b00c3bbdfb47878f0199324d6e33fa) 
 I'm studying about Web-fullstack stacks for being Fullstack programmer.
 
 ### Tistory Blog
